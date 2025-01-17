@@ -1,4 +1,5 @@
 # Binary Search
+from typing import list
 
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
